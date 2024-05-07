@@ -67,10 +67,6 @@ nav li {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-/* main {
-  height: 96vh;
-} */
-
 h1 {
   color: var(--colorSilver);
   text-align: center;
@@ -147,12 +143,6 @@ footer{
   clear:both;
 }
 
-/* #section1 img {
-  width: 100vw;
-  height: 100vh;
-  position: absolute;
-} */
-
 
 /********************************************************/
 
@@ -217,16 +207,6 @@ footer{
   border-radius: 2vw;
   
 }
-
-/*.content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  font-family: sans-serif;
-  font-size: 64px;
-  font-weight: bold;
-}*/
 
 .button {
   margin-top: 8%;
